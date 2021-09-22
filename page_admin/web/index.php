@@ -18,7 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--/webfonts-->
     <?php
         session_start();
-		$servername = "MYSQL5047.site4now.net";
+		$servername = "mysql5031.site4now.net";
 $username = "a7a1b4_dinhtua";
 $password = "Phong123!";
 $dbname = "db_a7a1b4_dinhtua";
