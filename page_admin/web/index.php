@@ -19,9 +19,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <?php
         session_start();
 		$servername = "MYSQL5047.site4now.net";
-$username = "a77512_tranvan";
-$password = "shop_nhom3";
-$dbname = "db_a77512_tranvan";
+$username = "a7a1b4_dinhtua";
+$password = "Phong123!";
+$dbname = "db_a7a1b4_dinhtua";
 		$conn = mysqli_connect($servername, $username, $password, $dbname);
 		if(!$conn) {
 			die("Connection failed: ".mysqli_connect_error());
